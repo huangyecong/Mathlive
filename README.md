@@ -59,7 +59,7 @@ npm run dev
 可以使用LaTeX Live 在线编辑器自动生成：
 👉[ https://cortexjs.io/mathlive/guides/latex/#supported-latex-commands](https://www.latexlive.com/##)
 
-
+![alt text](f3bb8b39209a0c1e6d6edd12bfbbf813.png)
 
 ## 📚 相关资料 
 - [官网文档: https://cortexjs.io/mathfield/](https://cortexjs.io/mathfield/)
