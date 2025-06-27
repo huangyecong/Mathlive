@@ -2,6 +2,9 @@
 
 这是一个基于 [Mathlive](https://github.com/arnog/mathlive) 的简单演示项目，展示了如何在 Vue 3 中集成 `<math-field>` 数学公式编辑器，并输入常见 LaTeX 数学表达式。
 
+## 项目截图
+![alt text](image.png)
+
 ## ✨ 项目特点
 
 - 使用 `mathlive` 实现网页上的数学公式输入；
